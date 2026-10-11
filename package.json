@@ -1,0 +1,11 @@
+{
+  "name": "goodfolk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Goodfolk local services marketplace concept for JT.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/export-pages.mjs",
+    "build:pages": "node scripts/export-pages.mjs"
+  }
+}

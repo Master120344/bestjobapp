@@ -1,0 +1,123 @@
+[
+  {
+    "file": "hero.jpg",
+    "description": "Craftsperson working at a warmly lit wooden workbench",
+    "source": "https://unsplash.com/photos/carpenter-working-with-wood-in-a-workshop-oW4mPEcgdEc",
+    "imageSource": "https://images.unsplash.com/photo-1769353086138-19ee65291a04",
+    "photographer": "qyy qyyy",
+    "license": "https://unsplash.com/license",
+    "width": 1600,
+    "height": 2400,
+    "bytes": 445168
+  },
+  {
+    "file": "cleaning.jpg",
+    "description": "Cleaner tending a window in a naturally lit home",
+    "source": "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
+    "imageSource": "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
+    "photographer": null,
+    "license": "https://unsplash.com/license",
+    "width": 1200,
+    "height": 800,
+    "bytes": 86217
+  },
+  {
+    "file": "assembly.jpg",
+    "description": "Cordless drill on a textured workbench",
+    "source": "https://images.unsplash.com/photo-1504148455328-c376907d081c",
+    "imageSource": "https://images.unsplash.com/photo-1504148455328-c376907d081c",
+    "photographer": null,
+    "license": "https://unsplash.com/license",
+    "width": 1200,
+    "height": 712,
+    "bytes": 209068
+  },
+  {
+    "file": "moving.jpg",
+    "description": "Couple carrying boxes and a houseplant into a new home",
+    "source": "https://unsplash.com/photos/couple-carrying-moving-boxes-into-a-new-home-vV5iOAidkQE",
+    "imageSource": "https://images.unsplash.com/photo-1758523670991-ee93bc48d81d",
+    "photographer": "Vitaly Gariev",
+    "license": "https://unsplash.com/license",
+    "width": 1200,
+    "height": 675,
+    "bytes": 80851
+  },
+  {
+    "file": "garden.jpg",
+    "description": "Hands planting young seedlings in a raised garden bed",
+    "source": "https://unsplash.com/photos/person-planting-seedlings-in-raised-bed-VTXw4_5SsNA",
+    "imageSource": "https://images.unsplash.com/photo-1621460248083-6271cc4437a8",
+    "photographer": "Jonathan Kemper",
+    "license": "https://unsplash.com/license",
+    "width": 800,
+    "height": 1200,
+    "bytes": 195235
+  },
+  {
+    "file": "pets.jpg",
+    "description": "Two dogs running together in warm afternoon light",
+    "source": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b",
+    "imageSource": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b",
+    "photographer": null,
+    "license": "https://unsplash.com/license",
+    "width": 1200,
+    "height": 801,
+    "bytes": 97049
+  },
+  {
+    "file": "errands.jpg",
+    "description": "Fresh vegetables arranged at a neighborhood grocery",
+    "source": "https://images.unsplash.com/photo-1542838132-92c53300491e",
+    "imageSource": "https://images.unsplash.com/photo-1542838132-92c53300491e",
+    "photographer": null,
+    "license": "https://unsplash.com/license",
+    "width": 1200,
+    "height": 900,
+    "bytes": 300468
+  },
+  {
+    "file": "creative.jpg",
+    "description": "Photographer working outdoors",
+    "source": "https://unsplash.com/photos/woman-holding-camera-outdoor-during-daytime-r30SlqY4UKM",
+    "imageSource": "https://images.unsplash.com/photo-1559234763-a0bcb44542bf",
+    "photographer": "Raban Schwebius",
+    "license": "https://unsplash.com/license",
+    "width": 800,
+    "height": 1200,
+    "bytes": 160441
+  },
+  {
+    "file": "tech.jpg",
+    "description": "Laptop on a simple wood desk with small plant",
+    "source": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+    "imageSource": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+    "photographer": null,
+    "license": "https://unsplash.com/license",
+    "width": 1200,
+    "height": 800,
+    "bytes": 72658
+  },
+  {
+    "file": "interior.jpg",
+    "description": "Sunlit living room with plants, natural textures and neutral furnishings",
+    "source": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0",
+    "imageSource": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0",
+    "photographer": null,
+    "license": "https://unsplash.com/license",
+    "width": 1200,
+    "height": 900,
+    "bytes": 183611
+  },
+  {
+    "file": "hero_alternate.jpg",
+    "description": "Detail of a home painter working with roller and paint tray",
+    "source": "https://unsplash.com/photos/f1UwaROA2UQ",
+    "imageSource": "https://images.unsplash.com/photo-1652829069834-2c05031199c5",
+    "photographer": "Callum Hill",
+    "license": "https://unsplash.com/license",
+    "width": 1600,
+    "height": 2400,
+    "bytes": 456498
+  }
+]
